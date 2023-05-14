@@ -5,25 +5,31 @@ permalink: /education
 ---
 
 #### Bachelor of Engineering:
-> <a href="https://www.sgsits.ac.in/" target="_blank">
+ > <a href="https://www.sgsits.ac.in/" target="_blank">
+<img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sgsits.png" | relative_url }}"  width="100" height="100" alt="SGSITS College Logo">
 Shri G.S. Institute of Technology and Science (SGSITS) </a>  <br>
-> <a href="https://www.sgsits.ac.in/index.php/departments/civil-engineering-and-applied-mechanics" target="_blank">
-Civil Engineering, 2015-2019 </a>  <br>
-> CGPA: 7.76 <br>
+ <a href="https://www.sgsits.ac.in/index.php/departments/civil-engineering-and-applied-mechanics" target="_blank">
+B.E. Civil Engineering, </a> <br>
+2015-2019, Regular  <br>
+ CGPA: 7.76 
 
+#### Higher Secondary School (PCM):
 
-#### Higher Secondary School:
-> <a href="https://sarafavidyaniketan.com/" target="_blank">Sarafa Vidhya Niketan (SVN)
+> <a href="https://sarafavidyaniketan.com/" target="_blank">
+<img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sarafa.jpg" | relative_url }}"  width="100" height="100" alt="Sarafa School Logo">
+Sarafa Vidhya Niketan (SVN)
  </a>  <br>
-> PCM, 2012-2014 <br>
-> Performance: 90.8 % <br>
-
+2014, Regular  <br>
+Performance: 90.80 % 
 
 #### High School:
-> <a href="https://sarafavidyaniketan.com/" target="_blank">Sarafa Vidhya Niketan (SVN)
+> <a href="https://sarafavidyaniketan.com/" target="_blank">
+<img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sarafa.jpg" | relative_url }}"  width="100" height="100" alt="Sarafa School Logo">
+Sarafa Vidhya Niketan (SVN)
  </a>  <br>
-> 2010-2012 <br>
-> Performance: 85.17 % <br>
+2012, Regular  <br>
+Performance: 85.17 %
 
+<br>
 [More... >>>>]({{ "/experience" | absolute_url }})
 

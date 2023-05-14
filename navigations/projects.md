@@ -21,9 +21,9 @@ permalink: /projects
 
 - Involved in end to end manual testing for the application.
 
->> <a  href="https://manthan-neema.github.io/SampleReport/" target="_blank">
+> <a  href="https://manthan-neema.github.io/SampleReport/" target="_blank">
 Sample Living Documentation Generated</a>  <br>
->> <a  href="https://manthan-neema.github.io/SampleReport/serenity-summary.html" target="_blank">
+<a  href="https://manthan-neema.github.io/SampleReport/serenity-summary.html" target="_blank">
 Sample One-Page Report Generated</a> 
 
 

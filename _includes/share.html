@@ -1,0 +1,110 @@
+<div class="sharebuttons">
+  <hr/>
+  <ul>
+    <li>
+      <p class="sharetitle"> Share With: </p>
+    </li>
+    {% comment %}
+        <li class="reddit">
+          <a href="" target="_blank">
+          <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title> {% include social-icons/linkedin.svg %}</svg>
+          </a>
+        </li>
+        <li class="hn">
+          <a href="" target="_blank">
+          <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title> {% include social-icons/linkedin.svg %}</svg>
+            </a>
+        </li>
+
+    <li class="medium">
+      <a href="" target="_blank">
+        <svg role="img" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><title>Share On Medium</title> {% include
+          social-icons/medium.svg %}
+        </svg>
+      </a>
+    </li>
+
+    <li class="quora">
+      <a href="" target="_blank">
+      <svg role="img" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg"><title>Share On Quora</title> {% include
+        social-icons/quora.svg %}
+      </svg>
+      </a>
+    </li>
+    {% endcomment %}
+
+
+    <li class="linkedin">
+      <a
+        href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Share On LinkedIn</title> {% include
+        social-icons/linkedin.svg %}
+      </svg>
+
+      </a>
+    </li>
+
+    {% comment %}
+    <details>
+      <summary>More</summary>
+      <br>
+      <li class="stackoverflow">
+        <a href="" target="_blank">
+          <svg role="img" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg"><title>Share On Stack Overflow</title>
+            {%
+            include
+            social-icons/stackoverflow.svg %}
+          </svg>
+        </a>
+      </li>
+
+      <li class="telegram">
+        <a
+          href="" target="_blank">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Share On Telegram</title>{%
+          include
+          social-icons/telegram.svg %}
+        </svg>
+        </a>
+      </li>
+
+      <li class="whatsapp">
+        <a href="" target="_blank">
+          <svg role="img" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg"><title>Share On Whatsapp</title>{%
+            include social-icons/whatsapp.svg %}
+          </svg>
+        </a>
+      </li>
+
+      <details>
+        <summary>Others</summary>
+        <br>
+        <li class="twitter">
+          <a
+            href="" target="_blank">
+          <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Share On Twitter</title> {%
+            include
+            social-icons/twitter.svg %}
+          </svg>
+          </a>
+        </li>
+
+        <li class="gmail">
+          <a href="" target="_blank">
+            <svg role="img" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg"><title>Share via Mail</title>
+              {%
+              include
+              social-icons/gmail.svg %}
+            </svg>
+          </a>
+        </li>
+
+      </details>
+
+    </details>
+    {% endcomment %}
+
+  </ul>
+
+
+</div>
