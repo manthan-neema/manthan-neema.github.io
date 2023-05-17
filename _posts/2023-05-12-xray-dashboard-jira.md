@@ -29,7 +29,7 @@ Xray dashboard is simple yet powerful, fulfill most purposes a report should hav
 - Add respective gadgets.
 - Fill details as per your requirement, and boom!! You are ready with pretty dashboard reports like below:
 
-![xray-dashboard]({{ site.baseurl }}/assets/images/xray-dashboard/xray-dashboard.png)
+![sample-xray-dashboard]({{ site.baseurl }}/assets/images/xray-dashboard/xray-dashboard.png "Sample Dashboard")
 > *For in depth details, please visit official docs:
  <a href="https://docs.getxray.app/display/XRAY/Reporting+using+Gadgets" target="_blank">XRAY Reporting Using Gadgets
 </a>

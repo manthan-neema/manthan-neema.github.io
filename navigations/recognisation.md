@@ -9,7 +9,7 @@ permalink: /recognisation
     recognizing outstanding performance and contributions 
     to project in a fast paced environment.
 
-![INSTA AWARD]({{ site.baseurl }}/navigations/images/Insta Award 2022.png) <br> <br> 
+![INSTA AWARD]({{ site.baseurl }}/navigations/images/Insta Award 2022.png "Insta Award") <br> <br> 
 
 ## SDET-Software Developer In Test-Infosys Certified (January 2023)
 - Infosys certified SDET (Software Developer in Test), 
@@ -18,6 +18,6 @@ permalink: /recognisation
     the quality of software products throughout the software development
     lifecycle.
 
-![INSTA AWARD]({{ site.baseurl }}/navigations/images/SDET.png) <br> <br> 
+![INSTA AWARD]({{ site.baseurl }}/navigations/images/SDET.png "SDET Certificate") <br> <br> 
 
-[<<<< Home >>>>]({{ "/" | absolute_url }})
+[<<<< Home >>>>]({{ "/" | absolute_url }} "blogs")

@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me/
 ---
 <p align="center">
-  <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/photo.jpg" | relative_url }}"  width="250" height="400">
+  <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/photo.jpg" | relative_url }}"  width="250" height="400" alt="Manthan Photo" title="Manthan Neema">
 
 My name is Manthan Neema, an accomplished Associate Consultant in Infosys with over 3+ years of experience in the IT industry. My expertise lies in delivering high-quality software by utilizing a blend of both <i> Manual and Automated testing </i> techniques, with a strong focus on <i> UI and API testing </i>.
 <br>
@@ -16,7 +16,10 @@ My name is Manthan Neema, an accomplished Associate Consultant in Infosys with o
 <br>
 <br>
 </p>
-
-[More... >>>>]({{ "/education" | absolute_url }})
+<br>
+<br>
+{% include skills.html %}
+<br>
+[More... >>>>]({{ "/education" | absolute_url }} "education")
 
 

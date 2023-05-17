@@ -5,7 +5,7 @@ permalink: /education
 ---
 
 #### Bachelor of Engineering:
- > <a href="https://www.sgsits.ac.in/" target="_blank">
+ > <a href="https://www.sgsits.ac.in/" target="_blank" title="Shri G.S. Institute of Technology and Science" alt="sgsits logo">
 <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sgsits.png" | relative_url }}"  width="100" height="100" alt="SGSITS College Logo">
 Shri G.S. Institute of Technology and Science (SGSITS) </a>  <br>
  <a href="https://www.sgsits.ac.in/index.php/departments/civil-engineering-and-applied-mechanics" target="_blank">
@@ -15,7 +15,7 @@ B.E. Civil Engineering, </a> <br>
 
 #### Higher Secondary School (PCM):
 
-> <a href="https://sarafavidyaniketan.com/" target="_blank">
+> <a href="https://sarafavidyaniketan.com/" target="_blank" title="Sarafa Vidhya Niketan" alt="svn logo">
 <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sarafa.jpg" | relative_url }}"  width="100" height="100" alt="Sarafa School Logo">
 Sarafa Vidhya Niketan (SVN)
  </a>  <br>
@@ -23,7 +23,7 @@ Sarafa Vidhya Niketan (SVN)
 Performance: 90.80 % 
 
 #### High School:
-> <a href="https://sarafavidyaniketan.com/" target="_blank">
+> <a href="https://sarafavidyaniketan.com/" target="_blank" title="Sarafa Vidhya Niketan" alt="svn logo">
 <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sarafa.jpg" | relative_url }}"  width="100" height="100" alt="Sarafa School Logo">
 Sarafa Vidhya Niketan (SVN)
  </a>  <br>
@@ -31,5 +31,5 @@ Sarafa Vidhya Niketan (SVN)
 Performance: 85.17 %
 
 <br>
-[More... >>>>]({{ "/experience" | absolute_url }})
+[More... >>>>]({{ "/experience" | absolute_url }} "experience")
 

@@ -6,7 +6,7 @@ permalink: /experience
 
 #### Infosys:
 > <a href="https://www.infosys.com/" target="_blank">
-<img align="left" style="margin-right: 45px" src="{{ "/navigations/images/infosys.png" | relative_url }}"  width="150" height="75" alt="Infosys Logo">
+<img align="left" style="margin-right: 45px" src="{{ "/navigations/images/infosys.png" | relative_url }}"  width="150" height="75" title="Infosys" alt="Infosys Logo">
 
 > Associate Consultant <br>
 > November 2019 – Present
@@ -23,5 +23,5 @@ industries.
 my management duties, contributing to continuous improvement
 efforts to enhance testing processes and methodologies.
 
-[More... >>>>]({{ "/projects" | absolute_url }})
+[More... >>>>]({{ "/projects" | absolute_url }} "projects")
 

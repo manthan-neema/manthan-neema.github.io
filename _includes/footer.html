@@ -6,7 +6,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}" title="subscribe via RSS Feed">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
             </svg>
@@ -19,7 +19,12 @@
           <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li>
+            <a title="contact via mail" class="u-email" href="mailto:{{ site.author.email }}">
+              <svg fill="#EA4335" style="width:15px;height:15px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">{% include
+                social-icons/gmail.svg %}
+              </svg>
+              {{ site.author.email }}</a></li>
           {%- endif %}
         </ul>
         {%- endif %}
