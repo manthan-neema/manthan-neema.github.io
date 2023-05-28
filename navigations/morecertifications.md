@@ -48,4 +48,4 @@ Infosys Certified Digital Technologies Professional.</a>
         Infosys
         Issued: April 2022
 
-[More.....>>>>]({{ "/recognisation" | absolute_url }} "awards")
+[More.....>>>>]({{ "/recognitions" | absolute_url }} "awards")
