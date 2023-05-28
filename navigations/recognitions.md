@@ -24,7 +24,7 @@ permalink: /recognitions
     the quality of software products throughout the software development
     lifecycle. <br> <br>
 
-![INSTA AWARD]({{ site.baseurl }}/navigations/images/sdet.png "SDET Certificate") <br> <br> 
+![INSTA AWARD]({{ site.baseurl }}/navigations/images/SDET.png "SDET Certificate") <br> <br> 
 
 
 [<<<< Home >>>>]({{ "/" | absolute_url }} "blogs")
