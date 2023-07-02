@@ -4,18 +4,19 @@ title: Certifications
 permalink: /certifications
 ---
 
-- 
-<a href="https://drive.google.com/file/d/1LHSLiQz_PJwe7ILNVIlA1QBJ_bVrHLdh/view" target="_blank" title="View Certificate">
-Infosys Certified Manual Test Professional Obj.</a>
-
-        Infosys
-        Issued On: October 2021
 
 - 
 <a title="View Certificate" href="https://drive.google.com/file/d/1OgKbiQ3j8FreghgDOoYfn3ohrSBdCWl0/view" target="_blank">Infosys Certified Selenium Advance Automation Tester.</a>
 
         Infosys
         Issued On: May 2022
+
+- 
+<a title="View Certificate" href="https://drive.google.com/file/d/1LHSLiQz_PJwe7ILNVIlA1QBJ_bVrHLdh/view" target="_blank" >
+Infosys Certified Manual Test Professional Obj.</a>
+
+        Infosys
+        Issued On: October 2021
 
 - 
 <a title="View Certificate" href="https://drive.google.com/file/d/160HzDfDXyCfqhWZctGAMKp_KMIoKPrFi/view" target="_blank">

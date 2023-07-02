@@ -4,6 +4,11 @@ title: Projects
 permalink: /projects
 ---
 
+### Work Sample:
+
+> <a  href="https://github.com/manthan-neema/serenity-cucumber-starter-plus" target="_blank">
+serenity-cucumber-starter-plus-work-sample</a>  <br>
+
 ### International Label Application (ILA):
 - Created a UI automation testing framework using Serenity BDD.
 
