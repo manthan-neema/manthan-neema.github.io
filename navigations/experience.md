@@ -8,12 +8,12 @@ permalink: /experience
 > <a href="https://www.infosys.com/" target="_blank">
 <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/infosys.png" | relative_url }}"  width="150" height="75" title="Infosys" alt="Infosys Logo">
 
-> Associate Consultant <br>
+> Senior Associate Consultant <br>
 > November 2019 – Present
 
 <br>
 - I began my career as a <i> System Engineer Trainee </i> at Infosys in
-November 2019 and have since been promoted to Associate
+November 2019 and have since been promoted to Senior Associate
 Consultant.
 
 - I worked on a range of projects for clients in various

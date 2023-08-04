@@ -7,13 +7,6 @@ permalink: /certifications/more-certifications1
 [Back....<<<<]({{ "/certifications" | absolute_url }})
 
 - 
-<a title="View Certificate" href="https://drive.google.com/file/d/1rwjcR748Me6jiMRrt7hrln5sYKZueTHO/view" target="_blank">
-Infosys Certified Java SE8 Developer.</a>
-
-        Infosys
-        Issued: May 2022
-
-- 
 <a title="View Certificate" href="https://drive.google.com/file/d/1qNsIjEcieMJzEm9Y3FEUGdhOocP7ZkZe/view" target="_blank">
 Infosys Certified Python Associate.</a>
 
