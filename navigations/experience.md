@@ -4,16 +4,26 @@ title: Experience
 permalink: /experience
 ---
 
-#### Infosys:
+### Infobeans:
+> <a href="https://www.infobeans.com/" target="_blank">
+<img align="left" style="margin-right: 45px" src="{{ "/navigations/images/infobeans.png" | relative_url }}"  width="150" height="75" title="Infobeans" alt="Infobeans Logo">
+
+> QA Engineer <br>
+> October 2023 – Present
+
+<br>
+- I joined Infobeans as QA Engineer.
+
+### Infosys:
 > <a href="https://www.infosys.com/" target="_blank">
 <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/infosys.png" | relative_url }}"  width="150" height="75" title="Infosys" alt="Infosys Logo">
 
-> Senior Associate Consultant <br>
-> November 2019 – Present
+> Associate Consultant <br>
+> November 2019 – October 2023
 
 <br>
 - I began my career as a <i> System Engineer Trainee </i> at Infosys in
-November 2019 and have since been promoted to Senior Associate
+November 2019 and have since been promoted to Associate
 Consultant.
 
 - I worked on a range of projects for clients in various
