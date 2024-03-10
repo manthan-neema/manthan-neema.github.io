@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "API testing with Cucumber: Is it a good Idea?"
+title: "Testing API in BDD Style: Is it really a good Idea?"
 categories: misc
 meta: "API with cucumber"
 permalink: /api-testing-using-cucumber
