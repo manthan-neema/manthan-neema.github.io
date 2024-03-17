@@ -14,6 +14,7 @@ I thought to interview someone as well to know if I miss something in understand
 I approached my lead, and I asked him; he also had the same answer, I didn't use it in my 10-year career.
 
 Let's start with what a debugger is? If our reader is not ware of.
+
 According to wikipedia, "A debugger or debugging tool is a computer program used to test and debug other programs."
 Debugger option can be found in all the latest IDEs, beside the run option like below: <br>
 
