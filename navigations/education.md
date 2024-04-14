@@ -9,7 +9,7 @@ permalink: /education
 <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/sgsits.png" | relative_url }}"  width="100" height="100" alt="SGSITS College Logo">
 Shri G.S. Institute of Technology and Science (SGSITS) </a>  <br>
  <a href="https://www.sgsits.ac.in/index.php/departments/civil-engineering-and-applied-mechanics" target="_blank">
-B.E. Civil Engineering, </a> <br>
+Bachelor of Engineering (B.E.), Civil Engineering, </a> <br>
 2015-2019, Regular  <br>
  CGPA: 7.76 
 
