@@ -6,7 +6,7 @@ meta: "what is truth problem"
 permalink: /what-is-truth-problem
 ---
 Recently, We got into one problem, where every one in the team has their own views in the output of a existing testcase. Every one has their different expectation for the output.
-So we introduced with a problem statement named, <i> What is TRUTH??? </i>. <br>
+So we introduced with a problem statement named, <i> What is TRUTH??? </i>. [>>>>]({{ "/what-is-truth-problem" | absolute_url }})
 
 What is this exactly? This basically helps in deciding what is true, what is correct output of an existing testcase.
 

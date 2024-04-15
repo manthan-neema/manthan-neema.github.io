@@ -6,7 +6,7 @@ meta: "API with cucumber"
 permalink: /api-testing-using-cucumber
 ---
 Recently I saw one of my colleagues using cucumber for API testing.
-I thought was it a good idea to use BDD for API testing?
+I thought was it a good idea to use BDD for API testing? [>>>>]({{ "/api-testing-using-cucumber" | absolute_url }})
 
 Let's start with understanding the purpose of API testing and where it fits in the testing pyramid.
 APIs are used to make low-level testing easy. It's an interface to connect to the code.

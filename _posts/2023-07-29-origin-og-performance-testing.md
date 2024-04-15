@@ -6,7 +6,7 @@ meta: "performance testing"
 permalink: /origin-of-performance-testing
 ---
 There is a lot of chaos in performance testing in the IT industry. And using resources dynamically as per the demand and requirement.
-But is this term new and originated in the IT field?
+But is this term new and originated in the IT field? [>>>>]({{ "/origin-of-performance-testing" | absolute_url }})
 
 If your answer is yes. Then I would like to correct, performance testing is being in use for a long.
 The term performance testing originated from one of the most ancient branches of engineering, *Civil Engineering*.

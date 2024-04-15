@@ -7,7 +7,7 @@ permalink: /debugger-for-tester
 ---
 Recently, I saw one of my developer friends using debugger, trying hard to find the root cause why his development code is not working.
 After seeing him, I got a doubt, in my 4 years of experience I never use it in my testing code,
-Is the debugger not for testers at all?
+Is the debugger not for testers at all? [>>>>]({{ "/debugger-for-tester" | absolute_url }})
 
 Already aware of what a debugger is and how to use it, still not using it, quite contradictarian.
 I thought to interview someone as well to know if I miss something in understanding,

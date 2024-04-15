@@ -8,7 +8,7 @@ permalink: /generalized-testcases-nightmare-for-tester
 Recently, one of my colleague was writing cucumber testcases for automating in a generalized manner. 
 I feel it can be better, if it can be concrete instead of generalized one.
 Why?? Generalized testcase have a lot of disadvantage in long term, top most is generalized testcase's meaning changed every time a tester read the testcase.
-So I introduced with a rule named concrete principle. <br>
+So I introduced with a rule named concrete principle. [>>>>]({{ "/generalized-testcases-nightmare-for-tester" | absolute_url }})
 
 > What is Concrete Principle??  <br>
 > Never start automating a testcase until you can have a concrete input and a concrete output beforehand.
