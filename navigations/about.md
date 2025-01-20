@@ -6,7 +6,7 @@ permalink: /about-me/
 <p align="center">
   <img align="left" style="margin-right: 45px" src="{{ "/navigations/images/photo.jpeg" | relative_url }}"  width="250" height="400" alt="Manthan Photo" title="Manthan Neema">
 
-My name is Manthan Neema, an accomplished Quality Assurance Engineer in Infobeans with over 4+ years of experience in the IT industry. 
+My name is Manthan Neema, an accomplished Quality Assurance Engineer in Infobeans with over 5+ years of experience in the IT industry. 
 My expertise lies in delivering high-quality software by utilizing a blend of both <i> Automated and Manual testing </i> techniques, 
 with a strong focus particularly on <i> UI and API Automation testing</i>.
 <br>

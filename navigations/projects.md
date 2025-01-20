@@ -16,6 +16,16 @@ it delivers the speed, simplicity, and security required to thrive in today’s 
 - Involved in manual testing during the stabilization week.
 - Used Qtest for managing stabilization testcases.
 - Used teamcity for regression testcase for remote run.
+- Used various SLMs GenAI internal tools to save time and work efficiently
+  - Co-pilot: Code AI editor.
+  - Brewbot: Chatbot for engineering tooling and processes documentation (Mostly Confluence).
+  - Autocode: Chatbot for code repositories: •P4, bitbucket, github.
+  - NEAC: ChatGPT like applications for NetApp engineers.
+  - Automergebot: Review generator for Bitbucket.
+  - Autodoc: Function documentation generator from code
+  - AutoUT: Function unit test generator
+  - AutoTestScript: Test code generator from test steps in Qtest
+
 
 ### Adidas: International Label Application (ILA)
 ILA acts as information broker, it basically collects all required information from various upstreams, 

@@ -29,9 +29,8 @@ manual testing during the stabilization week.
 > November 2019 – October 2023
 
 <br>
-- I began my professional career journey with infosys and joined as a <i> System Engineer Trainee </i> in
-November 2019 and have since been promoted to Associate
-Consultant working on different roles.
+- I began my professional career journey with Infosys and joined as a <i> System Engineer Trainee </i> in
+November 2019 and have since been promoted to <i> Senior Associate Consultant </i> working on different roles.
 
 - I worked on a range of projects for clients in various
 industries which include e-learning & Retail.
