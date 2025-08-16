@@ -9,6 +9,16 @@ Today many of the organizations are using Xray as Test Management Tool, but all 
 Are you using Xray just for creating test cases, test plan, test executions and looking for tool to fulfill other needs??? <br>
 Then you are missing out many other features, like execution triggering though xray itself, inbuilt test repository, creating cucumber testcases, syncing them with VCS, document generator and many more.[>>>>]({{ "/xray-dashboard-jira" | absolute_url }})
 
+<br>
+<div style="text-align:center;">
+  <img src="{{ site.baseurl }}/assets/images/xray-dashboard-jira.webp"
+       alt="xray-dashboard-jira"
+       title="xray-dashboard-jira"
+       width="500"
+       height="300">
+</div>
+<br>
+
 Today we will discuss Xray dashboard which can used to watch status at one go. 
 
 Obviously it is not rich as living documentation of Serenity BBD, but it is true Serenity BDD Living Documentation contains more than enough information which should be used for application documentation purpose.

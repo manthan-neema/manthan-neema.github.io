@@ -8,6 +8,16 @@ permalink: /api-testing-using-cucumber
 Recently I saw one of my colleagues using cucumber for API testing.
 I thought was it a good idea to use BDD for API testing? [>>>>]({{ "/api-testing-using-cucumber" | absolute_url }})
 
+<br>
+
+<div style="text-align:center;">
+  <img src="{{ site.baseurl }}/assets/images/cucumber-for-api-testing-a-bad-idea.webp"
+       alt="bbd-best-practice"
+       title="bbd-best-practice"
+       width="500"
+       height="300">
+</div>
+
 Let's start with understanding the purpose of API testing and where it fits in the testing pyramid.
 APIs are used to make low-level testing easy. It's an interface to connect to the code.
 BDD is used to have a common understanding of what the whole functionality is supposed to be.
